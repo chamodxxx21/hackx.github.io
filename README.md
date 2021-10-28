@@ -42,7 +42,7 @@ AND TECHNICAL PDF IN THE HACKX TELRGRAM BOT.    </P>
         <li> Gaming 
         <li> Gaming PC Build
         <li> Tech News
-        
+        </ul>
        
         
         
