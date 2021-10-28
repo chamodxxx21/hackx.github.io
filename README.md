@@ -10,7 +10,7 @@
     </head>
 <title>  ABOUT HACKX BOT </title>
 
-    <tit
+    
     <body style="background: color #a59595;FF;">
 
         <center>
