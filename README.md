@@ -62,7 +62,4 @@ AND TECHNICAL PDF IN THE HACKX TELRGRAM BOT.    </P>
           
          
 
-</body>        
-  
-</head>
-</html>
+
